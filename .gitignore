@@ -1,0 +1,51 @@
+# ── Compiled Output ────────────────────────────────────────────────────────────
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# ── Maven ──────────────────────────────────────────────────────────────────────
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# ── Eclipse ────────────────────────────────────────────────────────────────────
+.classpath
+.project
+.settings/
+bin/
+.metadata/
+*.launch
+local.properties
+
+# ── IntelliJ IDEA ──────────────────────────────────────────────────────────────
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# ── VS Code ────────────────────────────────────────────────────────────────────
+.vscode/
+
+# ── OS Files ───────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs ───────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Environment / Secrets ──────────────────────────────────────────────────────
+.env
+*.properties
+!**/src/main/resources/*.properties
