@@ -1,6 +1,6 @@
 # Capgemini Java Training — Full Course Log
 
-> **Duration:** 07 Jan 2026 – 07 Mar 2026 &nbsp;|&nbsp; **Days:** 45 &nbsp;|&nbsp; **Trainer:** Capgemini  
+> **Duration:** 07 Jan 2026 – Ongoing &nbsp;|&nbsp; **Days:** 46 &nbsp;|&nbsp; **Trainer:** Capgemini  
 > A complete record of all topics studied, code written, and projects built during the Capgemini Java training programme.
 
 ---
@@ -524,13 +524,25 @@ CREATE DATABASE IF NOT EXISTS jpa_demo;
 
 ## 📋 Module 10 — SDLC & Soft Skills
 
-### Day 45 — 07 Mar 2026
+### Day 45 — 06 Mar 2026
 
 **Topics:** Software Development Life Cycle — Waterfall and Agile models, phases, comparisons, real-world project examples.
 
 | File | Description |
 |------|-------------|
-| [README.md](Day_45_07-03-2026/README.md) | Waterfall & Agile deep-dive, sprint examples, Scrum/Kanban overview |
+| [README.md](Day_45_06-03-2026/README.md) | Waterfall & Agile deep-dive, sprint examples, Scrum/Kanban overview |
+
+---
+
+## 🤖 Module 11 — Generative AI & Version Control
+
+### Day 46 — 07 Mar 2026
+
+**Topics:** Generative AI basics, Transformer architecture, GANs, Diffusion models, Large Language Models (LLMs); Version Control Systems (VCS), Git fundamentals, GitHub workflow.
+
+| File | Description |
+|------|-------------|
+| [README.md](Day_46_07-03-2026/README.md) | Overview of Generative AI, Transformer models, GANs, Diffusion models, and LLMs; introduction to Version Control Systems, Git commands, and GitHub collaboration workflow |
 
 ---
 
@@ -570,4 +582,4 @@ Hibernate projects use `hibernate.hbm2ddl.auto=update` — tables are created/al
 
 ---
 
-*Last updated: 07 Mar 2026*
+*Last updated: 08 Mar 2026*
